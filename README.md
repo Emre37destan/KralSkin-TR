@@ -8,7 +8,7 @@
 [![Issues](https://img.shields.io/github/issues/Emre37destan/KralSkin-TR.svg?style=plastic)](https://github.com/Emre37destan/KralSkin-TR/issues)
 ![Windows](https://github.com/Emre37destan/KralSkin-TR/workflows/Windows/badge.svg?branch=main&event=push)
 # **KralSkin-TR**
-<img src="https://raw.githubusercontent.com/Emre37destan/KralSkin-TR/main/KralSkin-TR.png">
+<img src="https://raw.githubusercontent.com/Emre37destan/KralSkin-TR/main/KralSkin-TRR.png">
 </div>
 
 `KralSkin-TR`, League of Legends için dahili görünüm değiştiricidir.
